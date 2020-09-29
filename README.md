@@ -1,4 +1,5 @@
-# thais-at
+# Pokecrud
+A CRUD made with Vue.Js that consults a fake API. Pokemon is the theme of the CRUD.
 
 ## Project setup
 ```
